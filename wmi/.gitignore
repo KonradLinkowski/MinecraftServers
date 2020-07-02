@@ -1,0 +1,6 @@
+logs/
+crash-reports/
+*.jar
+*.gz
+*.zip
+*.exe

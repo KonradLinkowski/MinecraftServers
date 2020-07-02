@@ -1,0 +1,1 @@
+cp -r "$(dirname "${BASH_SOURCE[0]}")/world" ~/.minecraft-backup/"world-backup-$(date +"%m-%d-%Y-%T")"
